@@ -1,0 +1,10 @@
+.task-window-container {
+	position: absolute;
+	padding: 20px;
+	width: 85%;
+	height: 200px;
+	background-color: white;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}

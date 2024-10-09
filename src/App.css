@@ -1,0 +1,9 @@
+.app-container {
+	display: flex;
+}
+
+.main-view-container {
+	background-color: green;
+	flex: 1;
+	padding: 30px;
+}
